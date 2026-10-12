@@ -20,7 +20,7 @@ Estudiante de **Ciencia de Datos** en la **Universidad de La Sabana** (Cajicá, 
 - 🌱 Profundizando en aprendizaje supervisado, no supervisado y estadística
 - 🧮 En el día a día: `Python` · `SQL` · `scikit-learn` · `Power BI`
 - 🎯 Buscando oportunidades en ciencia de datos y analítica de datos
-- 📫 Escríbeme a: **padillachl@hotmail.com**
+- 📫 Escríbeme a: **padillachl815@gmail.com**
 
 ---
 
