@@ -8,7 +8,6 @@
   <a href="mailto:padillachl@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Andrespadgu&style=for-the-badge&color=2E5E8C&label=Visitas+al+perfil" alt="Visitas al perfil"/>
 </p>
 
 ---
@@ -50,13 +49,4 @@ Estudiante de **Ciencia de Datos** en la **Universidad de La Sabana** (Cajicá, 
 | **UrbanMove NYC — Segmentación de movilidad** | Análisis de ~1,46 M de viajes de taxi: variables geoespaciales y clustering (K-Means, DBSCAN, GMM/EM) para perfilar la demanda urbana. | `Python` · `scikit-learn` |
 | **Dashboard de Bienestar Laboral** | App web interactiva que visualiza 16 dimensiones psicosociales con KPIs y una narrativa por capítulos. | `Streamlit` · `Plotly` |
 
-> 📌 Próximamente estaré subiendo el código de estos proyectos a mi perfil.
 
----
-
-### 📈 Mis estadísticas en GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Andrespadgu&show_icons=true&hide_border=true&title_color=2E5E8C&icon_color=2E5E8C" alt="Estadísticas de GitHub de Andrés"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrespadgu&layout=compact&hide_border=true&title_color=2E5E8C&langs_count=8" alt="Lenguajes más usados"/>
-</p>
