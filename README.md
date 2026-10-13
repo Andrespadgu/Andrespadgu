@@ -45,8 +45,8 @@ Estudiante de **Ciencia de Datos** en la **Universidad de La Sabana** (Cajicá, 
 
 | Proyecto | Descripción | Stack |
 | --- | --- | --- |
-| **Treego — Predicción de tiempos de entrega** | Pipeline de ML que predice el tiempo de preparación por restaurante y el factor de entrega por zona y franja horaria, con arquitectura *offline-train → online-lookup*. | `Python` · `LightGBM` · `PostgreSQL` |
-| **UrbanMove NYC — Segmentación de movilidad** | Análisis de ~1,46 M de viajes de taxi: variables geoespaciales y clustering (K-Means, DBSCAN, GMM/EM) para perfilar la demanda urbana. | `Python` · `scikit-learn` |
+| **Treego - Predicción de tiempos de entrega** | Pipeline de ML que predice el tiempo de preparación por restaurante y el factor de entrega por zona y franja horaria, con arquitectura *offline-train → online-lookup*. | `Python` · `LightGBM` · `PostgreSQL` |
+| **UrbanMove NYC - Segmentación de movilidad** | Análisis de ~1,46 M de viajes de taxi: variables geoespaciales y clustering (K-Means, DBSCAN, GMM/EM) para perfilar la demanda urbana. | `Python` · `scikit-learn` |
 | **Dashboard de Bienestar Laboral** | App web interactiva que visualiza 16 dimensiones psicosociales con KPIs y una narrativa por capítulos. | `Streamlit` · `Plotly` |
 
 
